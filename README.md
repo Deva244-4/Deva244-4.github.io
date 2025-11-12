@@ -92,7 +92,7 @@
 <body>
   <div class="cv-container">
     <header>
-      <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?crop=faces&fit=crop&w=400&h=400" alt="Theresa Cruz photo">
+      <img src="https://ChatGPT Image 12 nov 2025, 08_44_18.png">
       <h1>Theresa Cruz</h1>
       <p>Future Soccer Coach ⚽ | Bright Student | True Friend</p>
     </header>
