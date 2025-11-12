@@ -92,7 +92,7 @@
 <body>
   <div class="cv-container">
     <header>
-      <img src="https://ChatGPT Image 12 nov 2025, 08_44_18.png">
+      <img src="https://Deva244-4.github.io/ChatGPT Image 12 nov 2025, 08_44_18.png">
       <h1>Theresa Cruz</h1>
       <p>Future Soccer Coach ⚽ | Bright Student | True Friend</p>
     </header>
